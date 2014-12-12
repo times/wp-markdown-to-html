@@ -1,0 +1,11 @@
+.wp-postbox-plugin {
+	float: none;
+}
+
+.wp-postbox-plugin .postbox h3.hndle {
+	cursor: default;
+}
+
+div.select2 {
+	width: 100%;
+}
